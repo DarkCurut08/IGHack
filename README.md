@@ -1,10 +1,20 @@
 # IGHack
 # Tools Hack Akun IG Sederhana
-'''
-$ pkg update && upgrade
 $ pkg install git
-$ git clone https://github.com/DarkCurut08/Virus77
-$ cd Virus77
+$ git clone https://github.com/DarkCurut08/IGHack
+$ cd IGHack
 $ sh install.sh
-$ sh Moreno77.sh
-'''
+$ bash Moreno77.sh
+```
+# Contact
+```
+Instagram = @rdh05/_
+Youtube = DarkCurut08
+```
+
+
+
+
+
+
+
