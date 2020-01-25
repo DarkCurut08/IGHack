@@ -2,8 +2,8 @@
 # Tools Hack Akun IG Sederhana
 ```
 $ pkg install git
-$ git clone https://github.com/DarkCurut08/Spam77
-$ cd Spam77
+$ git clone https://github.com/DarkCurut08/IGHack
+$ cd IGHack
 $ sh install.sh
 $ sh Moreno77.sh
 ```
