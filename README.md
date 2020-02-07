@@ -1,5 +1,5 @@
 # IGHack
-# Tools Hack Akun IG Sederhana
+# Tools Hack Akun IG | Multi Hack IG
 ```
 $ pkg install git
 $ git clone https://github.com/DarkCurut08/IGHack
